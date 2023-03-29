@@ -1,0 +1,33 @@
+Estado	Region_7	Region_5	Region_3	Region_4	1999_Inegi	CEEY	Regiones_operativas
+Aguascalientes	CN	TO	N	C	C	N	O
+San Luis Potosi	CN	TO	N	C	C	N	NO
+Queretaro	CN	CS	C	C	C	C	O
+Guanajuato	CN	TO	C	C	C	C	O
+Zacatecas	CN	TO	N	C	N	N	O
+CDMX	CS	CS	C	C	C	C	C
+Hidalgo	CS	CS	C	C	C	C	C
+Puebla	CS	CS	C	C	C	C	C
+Mexico	CS	CS	C	C	C	C	C
+Tlaxcala	CS	CS	C	C	C	C	C
+Morelos	CS	CS	C	C	C	C	C
+Nuevo Leon	NE	TO	N	NE	N	N	NE
+Tamaulipas	NE	TO	N	NE	N	N	NE
+Coahuila	NE	N	N	NE	N	N	NE
+Baja California	NW	N	N	NW	N	N	NW
+Baja California Sur	NW	N	N	NW	N	N	NW
+Sonora	NW	N	N	NW	N	N	NW
+Chihuahua	NW	N	N	NW	N	N	NW
+Sinaloa	NW	N	N	NW	N	N	NW
+Durango	NW	N	N	C	N	N	NE
+Campeche	SE	SE	S	S	S	S	SE
+Yucatan	SE	SE	S	S	S	S	SE
+Quintana Roo	SE	SE	S	S	S	S	SE
+Chiapas	S	SE	S	S	S	S	SE
+Veracruz	S	SE	C	C	S	S	SE
+Guerrero	S	CS	S	S	S	S	C
+Oaxaca	S	CS	S	S	S	S	SE
+Tabasco	S	CS	S	S	S	S	SE
+Jalisco	W	TO	C	C	C	C	O
+Michoacan	W	CS	C	C	C	C	O
+Colima	W	TO	C	C	C	C	O
+Nayarit	W	TO	C	C	C	N	O
